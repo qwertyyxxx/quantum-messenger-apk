@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "2.1.9",
+  "versionCode": 22,
+  "versionName": "2.2.0",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.1.9: без мигания главного экрана при входе и выходе из чата",
-  "publishedAt": 1786642152871
+  "notes": "2.2.0: непрозрачные экраны — без мигания при входе и выходе",
+  "publishedAt": 1786642897562
 }
