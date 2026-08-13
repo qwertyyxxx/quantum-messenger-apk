@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "2.1.7",
+  "versionCode": 20,
+  "versionName": "2.1.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.1.7: плавная полоска обновления, поле ввода у клавиатуры",
-  "publishedAt": 1786641171126
+  "notes": "2.1.8: убрана плашка «Отправлено / Отменить»",
+  "publishedAt": 1786641575308
 }
