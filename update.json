@@ -1,7 +1,7 @@
 {
-  "versionCode": 10,
-  "versionName": "2.0.9",
+  "versionCode": 11,
+  "versionName": "2.0.10",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.0.9: обои больше не пропадают в чате",
-  "publishedAt": 1786637227025
+  "notes": "2.0.10: шапка и поле ввода — тёмное стекло как в списке чатов",
+  "publishedAt": 1786637482608
 }
