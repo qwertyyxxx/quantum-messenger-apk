@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "2.0.8",
+  "versionCode": 10,
+  "versionName": "2.0.9",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.0.8: перевод, звук отправки, календарь дат, заметки, спойлеры, отложенные, исчезающие, хэштеги, форматирование, умные ответы",
-  "publishedAt": 1786629057469
+  "notes": "2.0.9: обои больше не пропадают в чате",
+  "publishedAt": 1786637227025
 }
