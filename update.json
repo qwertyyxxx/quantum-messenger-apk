@@ -1,7 +1,7 @@
 {
-  "versionCode": 23,
-  "versionName": "2.2.1",
+  "versionCode": 24,
+  "versionName": "2.2.2",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.2.1: быстрый вход в чат, без мигания при выходе",
-  "publishedAt": 1786643446410
+  "notes": "2.2.2: обои в чате, кнопка Установить всегда нажимается",
+  "publishedAt": 1786646552746
 }
