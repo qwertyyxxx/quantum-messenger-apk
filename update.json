@@ -1,7 +1,7 @@
 {
-  "versionCode": 34,
-  "versionName": "2.3.2",
+  "versionCode": 35,
+  "versionName": "2.3.3",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.2: фикс вылета при запуске (New Architecture)",
-  "publishedAt": 1786652547724
+  "notes": "2.3.3: поле к клавиатуре без пропасти, агенты снова в работе",
+  "publishedAt": 1786656695304
 }
