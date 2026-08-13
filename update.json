@@ -1,7 +1,7 @@
 {
-  "versionCode": 36,
-  "versionName": "2.3.4",
+  "versionCode": 37,
+  "versionName": "2.3.5",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.4: поле ввода без пропасти (убран двойной отступ клавиатуры)",
-  "publishedAt": 1786659321230
+  "notes": "2.3.5: поле ввода замок; отмена отправки 5с; анимация пузыря; печатает",
+  "publishedAt": 1786659980178
 }
