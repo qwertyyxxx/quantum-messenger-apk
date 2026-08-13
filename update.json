@@ -1,7 +1,7 @@
 {
-  "versionCode": 7,
-  "versionName": "2.0.6",
+  "versionCode": 8,
+  "versionName": "2.0.7",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "Новая сборка Quantum Messenger",
-  "publishedAt": 1786627385147
+  "notes": "2.0.7: превью ссылок и отмена отправки",
+  "publishedAt": 1786627947196
 }
