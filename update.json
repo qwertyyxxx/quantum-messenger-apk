@@ -1,7 +1,7 @@
 {
-  "versionCode": 32,
-  "versionName": "2.3.0",
+  "versionCode": 33,
+  "versionName": "2.3.1",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.0: поле к клавиатуре без пропасти, обои до низа, блюр поля",
-  "publishedAt": 1786651671912
+  "notes": "2.3.1: фикс вылета при старте/чате",
+  "publishedAt": 1786652021994
 }
