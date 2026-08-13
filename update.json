@@ -1,7 +1,7 @@
 {
-  "versionCode": 28,
-  "versionName": "2.2.6",
+  "versionCode": 29,
+  "versionName": "2.2.7",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.2.6: кнопка обновления под поиском, блюр шапки, баблы как в оригинале",
-  "publishedAt": 1786648636190
+  "notes": "2.2.7: плавное поле ввода и Quantum Spaces",
+  "publishedAt": 1786649993669
 }
