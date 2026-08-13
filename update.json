@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "2.1.1",
+  "versionCode": 14,
+  "versionName": "2.1.2",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.1.1: шапка и поле ввода светлее, блюр на месте",
-  "publishedAt": 1786638054308
+  "notes": "2.1.2: одно нажатие «Обновить»; светлая шапка и поле ввода",
+  "publishedAt": 1786638515364
 }
