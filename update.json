@@ -1,7 +1,7 @@
 {
-  "versionCode": 31,
-  "versionName": "2.2.9",
+  "versionCode": 32,
+  "versionName": "2.3.0",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.2.9: поле едет на C++/IME, как Telegram",
-  "publishedAt": 1786651012925
+  "notes": "2.3.0: поле к клавиатуре без пропасти, обои до низа, блюр поля",
+  "publishedAt": 1786651671912
 }
