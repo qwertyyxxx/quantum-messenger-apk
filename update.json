@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.0.7",
+  "versionCode": 9,
+  "versionName": "2.0.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.0.7: превью ссылок и отмена отправки",
-  "publishedAt": 1786627947196
+  "notes": "2.0.8: перевод, звук отправки, календарь дат, заметки, спойлеры, отложенные, исчезающие, хэштеги, форматирование, умные ответы",
+  "publishedAt": 1786629057469
 }
