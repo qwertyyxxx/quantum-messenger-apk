@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "2.2.7",
+  "versionCode": 30,
+  "versionName": "2.2.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.2.7: плавное поле ввода и Quantum Spaces",
-  "publishedAt": 1786649993669
+  "notes": "2.2.8: нативный выезд поля, Spaces как вкладки",
+  "publishedAt": 1786650450655
 }
