@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "2.2.8",
+  "versionCode": 31,
+  "versionName": "2.2.9",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.2.8: нативный выезд поля, Spaces как вкладки",
-  "publishedAt": 1786650450655
+  "notes": "2.2.9: поле едет на C++/IME, как Telegram",
+  "publishedAt": 1786651012925
 }
