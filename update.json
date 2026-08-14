@@ -1,7 +1,7 @@
 {
-  "versionCode": 45,
-  "versionName": "2.3.13",
+  "versionCode": 46,
+  "versionName": "2.3.14",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.13: плавный выезд чата, без мигания",
-  "publishedAt": 1786709348394
+  "notes": "2.3.14: чат открывается сразу, подпись без ложного вируса Play Protect",
+  "publishedAt": 1786709924914
 }
