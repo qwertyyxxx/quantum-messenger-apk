@@ -1,7 +1,7 @@
 {
-  "versionCode": 43,
-  "versionName": "2.3.11",
+  "versionCode": 44,
+  "versionName": "2.3.12",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.11: обои сразу при входе, без мигания при выходе",
-  "publishedAt": 1786707909199
+  "notes": "2.3.12: чат открывается сразу с шапкой и сообщениями, без вспышки при выходе",
+  "publishedAt": 1786708906752
 }
