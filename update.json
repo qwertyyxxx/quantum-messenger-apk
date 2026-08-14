@@ -1,7 +1,7 @@
 {
-  "versionCode": 39,
-  "versionName": "2.3.7",
+  "versionCode": 40,
+  "versionName": "2.3.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.7: вход в чат как в Telegram, блюр шапки и поля, клавиатура без дыры",
-  "publishedAt": 1786701191357
+  "notes": "2.3.8: без мигания вкладок при входе и выходе из чата",
+  "publishedAt": 1786701631744
 }
