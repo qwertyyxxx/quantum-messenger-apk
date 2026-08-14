@@ -1,7 +1,7 @@
 {
-  "versionCode": 48,
-  "versionName": "2.3.16",
+  "versionCode": 49,
+  "versionName": "2.3.17",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.16: тёмные поля сразу, выход без лишней анимации",
-  "publishedAt": 1786711176720
+  "notes": "2.3.17: плавный уезд чата при выходе",
+  "publishedAt": 1786711403784
 }
