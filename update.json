@@ -1,7 +1,7 @@
 {
-  "versionCode": 52,
-  "versionName": "2.3.20",
+  "versionCode": 53,
+  "versionName": "2.3.21",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.20: более плавный и чуть крупнее mesh-blob на «Начать»",
-  "publishedAt": 1786983799370
+  "notes": "2.3.21: плавное раскрытие Quantum Material при входе",
+  "publishedAt": 1786984304414
 }
