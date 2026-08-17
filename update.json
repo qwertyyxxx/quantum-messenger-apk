@@ -1,7 +1,7 @@
 {
-  "versionCode": 50,
-  "versionName": "2.3.18",
+  "versionCode": 51,
+  "versionName": "2.3.19",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.18: живые обои входа — тактильная квантовая сфера",
-  "publishedAt": 1786982386726
+  "notes": "2.3.19: только фиолетовый mesh-blob, без лишней сферы",
+  "publishedAt": 1786982869335
 }
