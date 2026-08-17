@@ -1,7 +1,7 @@
 {
-  "versionCode": 55,
-  "versionName": "2.3.23",
+  "versionCode": 56,
+  "versionName": "2.3.24",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.23: обои Quantum Material снова видны в чате",
-  "publishedAt": 1786985351986
+  "notes": "2.3.24: в чате обои есть, список больше не просвечивает",
+  "publishedAt": 1786985854780
 }
