@@ -1,7 +1,7 @@
 {
-  "versionCode": 56,
-  "versionName": "2.3.24",
+  "versionCode": 99,
+  "versionName": "2.3.67",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.24: в чате обои есть, список больше не просвечивает",
-  "publishedAt": 1786985854780
+  "notes": "2.3.67: убран Pair",
+  "publishedAt": 1787656322621
 }
