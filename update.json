@@ -1,7 +1,7 @@
 {
-  "versionCode": 119,
-  "versionName": "2.3.87",
+  "versionCode": 120,
+  "versionName": "2.3.88",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.87: фикс открытия Quantum Spaces (без ghosting Modal)",
-  "publishedAt": 1787673033027
+  "notes": "2.3.88: понятные иконки Quantum Spaces",
+  "publishedAt": 1787673610812
 }
