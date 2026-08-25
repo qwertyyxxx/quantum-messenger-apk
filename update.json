@@ -1,7 +1,7 @@
 {
-  "versionCode": 138,
-  "versionName": "2.5.1",
+  "versionCode": 139,
+  "versionName": "2.5.2",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.1: голосовые больше не исчезают; аватарки видны другим; плавное закрытие «Что нового?»",
-  "publishedAt": 1787689388606
+  "notes": "2.5.2: голосовые — play/стоп с первого тапа; иконка сбрасывается после конца; аватарки сжимаются и не чернеют",
+  "publishedAt": 1787690176511
 }
