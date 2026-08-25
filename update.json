@@ -1,7 +1,7 @@
 {
-  "versionCode": 113,
-  "versionName": "2.3.81",
+  "versionCode": 114,
+  "versionName": "2.3.82",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.81: без быстрых ответов, плавнее лента сообщений",
-  "publishedAt": 1787669043313
+  "notes": "2.3.82: плавная клавиатура, быстрые сообщения, стикеры без лагов",
+  "publishedAt": 1787669744918
 }
