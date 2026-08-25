@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "2.3.96",
+  "versionCode": 129,
+  "versionName": "2.3.97",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.96: тихая кнопка контактов - заметна, когда нужна",
-  "publishedAt": 1787680049212
+  "notes": "2.3.97: контакты без повторной загрузки; скрытие при чате; кнопки приглашения",
+  "publishedAt": 1787680429729
 }
