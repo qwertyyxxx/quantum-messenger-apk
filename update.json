@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "2.3.91",
+  "versionCode": 125,
+  "versionName": "2.3.93",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.91: Spaces без прямоугольника dim; тапы стабильнее; вкладка Поиск как Telegram+",
-  "publishedAt": 1787677781525
+  "notes": "2.3.93: короткие дефисы в поиске",
+  "publishedAt": 1787678829581
 }
