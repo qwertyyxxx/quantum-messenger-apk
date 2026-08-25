@@ -1,7 +1,7 @@
 {
-  "versionCode": 129,
-  "versionName": "2.3.97",
+  "versionCode": 130,
+  "versionName": "2.3.98",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.97: контакты без повторной загрузки; скрытие при чате; кнопки приглашения",
-  "publishedAt": 1787680429729
+  "notes": "2.3.98: меню сообщения Apple-style; реакции в рамке; копирование с тостом",
+  "publishedAt": 1787681323181
 }
