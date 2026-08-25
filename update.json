@@ -1,7 +1,7 @@
 {
-  "versionCode": 130,
-  "versionName": "2.3.98",
+  "versionCode": 131,
+  "versionName": "2.3.99",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.98: меню сообщения Apple-style; реакции в рамке; копирование с тостом",
-  "publishedAt": 1787681323181
+  "notes": "2.3.99: меню действий по центру (не на шапке); убрана кнопка ответа с пузырей",
+  "publishedAt": 1787682722406
 }
