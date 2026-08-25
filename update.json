@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "2.3.88",
+  "versionCode": 121,
+  "versionName": "2.3.89",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.88: понятные иконки Quantum Spaces",
-  "publishedAt": 1787673610812
+  "notes": "2.3.89: Spaces — без автоклавиатуры; Создать без имени берёт подпись иконки",
+  "publishedAt": 1787675193309
 }
