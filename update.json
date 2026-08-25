@@ -1,7 +1,7 @@
 {
-  "versionCode": 131,
-  "versionName": "2.3.99",
+  "versionCode": 132,
+  "versionName": "2.4.0",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.99: меню действий по центру (не на шапке); убрана кнопка ответа с пузырей",
-  "publishedAt": 1787682722406
+  "notes": "2.4.0: обновления скачиваются в фоне сами; раздел «Что нового?» в меню; установка только когда вы готовы",
+  "publishedAt": 1787686393551
 }
