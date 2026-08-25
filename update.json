@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "2.3.94",
+  "versionCode": 127,
+  "versionName": "2.3.95",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.94: без мигания ленты при открытии чата; звук отправки слышнее",
-  "publishedAt": 1787679179065
+  "notes": "2.3.95: кнопка «Добавить контакты» всегда + новый дизайн",
+  "publishedAt": 1787679800758
 }
