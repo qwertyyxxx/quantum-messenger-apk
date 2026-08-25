@@ -1,7 +1,7 @@
 {
-  "versionCode": 100,
-  "versionName": "2.3.68",
+  "versionCode": 112,
+  "versionName": "2.3.80",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.68: бургер-меню снова открывает разделы",
-  "publishedAt": 1787656817084
+  "notes": "2.3.80: защита отзывов от клеветы и накрутки 1★",
+  "publishedAt": 1787668036709
 }
