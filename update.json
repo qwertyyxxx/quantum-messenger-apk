@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "2.3.86",
+  "versionCode": 119,
+  "versionName": "2.3.87",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.3.86: модалка Spaces сразу на всю ширину",
-  "publishedAt": 1787672278533
+  "notes": "2.3.87: фикс открытия Quantum Spaces (без ghosting Modal)",
+  "publishedAt": 1787673033027
 }
