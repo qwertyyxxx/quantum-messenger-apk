@@ -1,7 +1,7 @@
 {
-  "versionCode": 136,
-  "versionName": "2.4.4",
+  "versionCode": 137,
+  "versionName": "2.5.0",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.4.4: исправлено открытие «Что нового?»; волна загрузки заполняется до конца; обновления в фоне",
-  "publishedAt": 1787688035396
+  "notes": "2.5.0: голосовые сообщения — запись и прослушивание; плавное закрытие «Что нового?» кнопкой Назад",
+  "publishedAt": 1787688761791
 }
