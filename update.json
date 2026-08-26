@@ -1,7 +1,7 @@
 {
-  "versionCode": 144,
-  "versionName": "2.5.7",
+  "versionCode": 145,
+  "versionName": "2.5.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.7: поле ввода не прыгает при наборе, лента не мигает, рост только по строкам",
-  "publishedAt": 1787743421924
+  "notes": "2.5.8: островок поля ввода как был — без растягивания и сжатия при отправке",
+  "publishedAt": 1787743822358
 }
