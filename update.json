@@ -1,7 +1,7 @@
 {
-  "versionCode": 141,
-  "versionName": "2.5.4",
+  "versionCode": 142,
+  "versionName": "2.5.5",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.4: чужие голосовые — кнопка play снова нажимается, аудио вынесено из пузыря",
-  "publishedAt": 1787741196368
+  "notes": "2.5.5: play на чужих голосовых — убрана полоса свайпа, которая глотала нажатия слева",
+  "publishedAt": 1787741928367
 }
