@@ -1,7 +1,7 @@
 {
-  "versionCode": 161,
-  "versionName": "2.6.14",
+  "versionCode": 162,
+  "versionName": "2.6.15",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.14: QMI бабли — оптимизация скролла (1 градиент вместо 5)",
-  "publishedAt": 1787761748482
+  "notes": "2.6.15: Quantum Animations — навигация чата, профиль и sheets",
+  "publishedAt": 1787762327375
 }
