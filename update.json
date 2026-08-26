@@ -1,7 +1,7 @@
 {
-  "versionCode": 142,
-  "versionName": "2.5.5",
+  "versionCode": 143,
+  "versionName": "2.5.6",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.5: play на чужих голосовых — убрана полоса свайпа, которая глотала нажатия слева",
-  "publishedAt": 1787741928367
+  "notes": "2.5.6: плавность 60fps — IME без ступенек, send без рывка, пауза обоев на клавиатуре",
+  "publishedAt": 1787742792173
 }
