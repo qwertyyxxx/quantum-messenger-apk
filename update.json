@@ -1,7 +1,7 @@
 {
-  "versionCode": 151,
-  "versionName": "2.6.4",
+  "versionCode": 152,
+  "versionName": "2.6.5",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.4: уникальные liquid-переключатели в «Уведомлениях»",
-  "publishedAt": 1787751073504
+  "notes": "2.6.5: переключатели можно тащить пальцем (как UISwitch)",
+  "publishedAt": 1787751576112
 }
