@@ -1,7 +1,7 @@
 {
-  "versionCode": 139,
-  "versionName": "2.5.2",
+  "versionCode": 140,
+  "versionName": "2.5.3",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.2: голосовые — play/стоп с первого тапа; иконка сбрасывается после конца; аватарки сжимаются и не чернеют",
-  "publishedAt": 1787690176511
+  "notes": "2.5.3: чужие голосовые снова играют (скачивание в кэш перед play)",
+  "publishedAt": 1787740200365
 }
