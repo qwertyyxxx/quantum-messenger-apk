@@ -1,7 +1,7 @@
 {
-  "versionCode": 146,
-  "versionName": "2.5.9",
+  "versionCode": 147,
+  "versionName": "2.6.0",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.9: рост поля только при переносе строки; без мигания ленты при send",
-  "publishedAt": 1787746241650
+  "notes": "2.6.0: откат perf-оптимизации — снова плавная анимация отправки сообщений",
+  "publishedAt": 1787746507301
 }
