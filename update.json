@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "2.5.6",
+  "versionCode": 144,
+  "versionName": "2.5.7",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.6: плавность 60fps — IME без ступенек, send без рывка, пауза обоев на клавиатуре",
-  "publishedAt": 1787742792173
+  "notes": "2.5.7: поле ввода не прыгает при наборе, лента не мигает, рост только по строкам",
+  "publishedAt": 1787743421924
 }
