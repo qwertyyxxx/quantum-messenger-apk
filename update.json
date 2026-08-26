@@ -1,7 +1,7 @@
 {
-  "versionCode": 165,
-  "versionName": "2.6.18",
+  "versionCode": 166,
+  "versionName": "2.6.19",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.18: фикс вылета в чате — withTiming без runOnJS callback",
-  "publishedAt": 1787763464701
+  "notes": "2.6.19: QMI капсулы в списке чатов",
+  "publishedAt": 1787763733418
 }
