@@ -1,7 +1,7 @@
 {
-  "versionCode": 163,
-  "versionName": "2.6.16",
+  "versionCode": 164,
+  "versionName": "2.6.17",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.16: фикс вылета при старте (QMA easing)",
-  "publishedAt": 1787762707100
+  "notes": "2.6.17: фикс вылета при открытии чата (QMA easing)",
+  "publishedAt": 1787762976399
 }
