@@ -1,7 +1,7 @@
 {
-  "versionCode": 166,
-  "versionName": "2.6.19",
+  "versionCode": 167,
+  "versionName": "2.6.20",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.19: QMI капсулы в списке чатов",
-  "publishedAt": 1787763733418
+  "notes": "2.6.20: QMA микро — Send, табы, меню сообщения",
+  "publishedAt": 1787764023201
 }
