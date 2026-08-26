@@ -1,7 +1,7 @@
 {
-  "versionCode": 140,
-  "versionName": "2.5.3",
+  "versionCode": 141,
+  "versionName": "2.5.4",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.5.3: чужие голосовые снова играют (скачивание в кэш перед play)",
-  "publishedAt": 1787740200365
+  "notes": "2.5.4: чужие голосовые — кнопка play снова нажимается, аудио вынесено из пузыря",
+  "publishedAt": 1787741196368
 }
