@@ -1,7 +1,7 @@
 {
-  "versionCode": 154,
-  "versionName": "2.6.7",
+  "versionCode": 155,
+  "versionName": "2.6.8",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.7: срочный фикс — снова открываются разделы бургер-меню",
-  "publishedAt": 1787752452077
+  "notes": "2.6.8: бургер скролл + мгновенный open разделов, quantum-карточки",
+  "publishedAt": 1787755997911
 }
