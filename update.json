@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "2.6.5",
+  "versionCode": 153,
+  "versionName": "2.6.6",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.5: переключатели можно тащить пальцем (как UISwitch)",
-  "publishedAt": 1787751576112
+  "notes": "2.6.6: важность тянется вниз/вверх + надёжнее бургер-меню",
+  "publishedAt": 1787752214861
 }
