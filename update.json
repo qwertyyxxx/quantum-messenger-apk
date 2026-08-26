@@ -1,7 +1,7 @@
 {
-  "versionCode": 148,
-  "versionName": "2.6.1",
+  "versionCode": 149,
+  "versionName": "2.6.2",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.1: новый мягкий звук отправки сообщений (вместо резкого писка)",
-  "publishedAt": 1787747171083
+  "notes": "2.6.2: тот же звук отправки — выше качество (48 кГц, чистый PCM)",
+  "publishedAt": 1787750030277
 }
