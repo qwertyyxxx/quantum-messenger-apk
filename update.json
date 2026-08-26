@@ -1,7 +1,7 @@
 {
-  "versionCode": 162,
-  "versionName": "2.6.15",
+  "versionCode": 163,
+  "versionName": "2.6.16",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.15: Quantum Animations — навигация чата, профиль и sheets",
-  "publishedAt": 1787762327375
+  "notes": "2.6.16: фикс вылета при старте (QMA easing)",
+  "publishedAt": 1787762707100
 }
