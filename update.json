@@ -1,7 +1,7 @@
 {
-  "versionCode": 150,
-  "versionName": "2.6.3",
+  "versionCode": 151,
+  "versionName": "2.6.4",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.3: раздел «Уведомления» — полная настройка push",
-  "publishedAt": 1787750698357
+  "notes": "2.6.4: уникальные liquid-переключатели в «Уведомлениях»",
+  "publishedAt": 1787751073504
 }
