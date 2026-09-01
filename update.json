@@ -1,7 +1,7 @@
 {
-  "versionCode": 175,
-  "versionName": "2.6.28",
+  "versionCode": 176,
+  "versionName": "2.6.29",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.28: шапка — свайп к профилю без притормаживания",
-  "publishedAt": 1788267589195
+  "notes": "2.6.29: шапка «я» — статус, wave, вход в профиль",
+  "publishedAt": 1788270877742
 }
