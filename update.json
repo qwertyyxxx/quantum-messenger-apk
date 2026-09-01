@@ -1,7 +1,7 @@
 {
-  "versionCode": 182,
-  "versionName": "2.6.35",
+  "versionCode": 183,
+  "versionName": "2.6.36",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.35: виджеты без wave/статуса; ровный veil при свайпе",
-  "publishedAt": 1788276114570
+  "notes": "2.6.36: стопка непрочитанных в шапке",
+  "publishedAt": 1788282058250
 }
