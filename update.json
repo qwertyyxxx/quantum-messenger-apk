@@ -1,7 +1,7 @@
 {
-  "versionCode": 170,
-  "versionName": "2.6.23",
+  "versionCode": 171,
+  "versionName": "2.6.24",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.23: QMA — плавное открытие бургер-меню",
-  "publishedAt": 1787765269266
+  "notes": "2.6.24: шапка — свайп к аватару и имени (QMI + QMA)",
+  "publishedAt": 1788264767990
 }
