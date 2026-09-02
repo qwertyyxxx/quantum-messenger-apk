@@ -1,7 +1,7 @@
 {
-  "versionCode": 191,
-  "versionName": "2.6.44",
+  "versionCode": 192,
+  "versionName": "2.6.45",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.44: полировка виджетов — тап без затемнения шапки, тишина без ложных вспышек",
-  "publishedAt": 1788364300805
+  "notes": "2.6.45: тишина — подпись «выкл» не пропадает после выключения",
+  "publishedAt": 1788364796992
 }
