@@ -1,7 +1,7 @@
 {
-  "versionCode": 189,
-  "versionName": "2.6.42",
+  "versionCode": 190,
+  "versionName": "2.6.43",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.42: виджеты шапки — непрочитанные открывают чат; отложенные, тишина, закрепы, истории; без «избранного»",
-  "publishedAt": 1788362367819
+  "notes": "2.6.43: тишина в шапке — мягкий тап и дыхание луны",
+  "publishedAt": 1788363504892
 }
