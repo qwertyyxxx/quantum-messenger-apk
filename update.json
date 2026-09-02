@@ -1,7 +1,7 @@
 {
-  "versionCode": 195,
-  "versionName": "2.6.48",
+  "versionCode": 196,
+  "versionName": "2.6.49",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.48: плавные анимации клавиатуры и отправки, без рывков",
-  "publishedAt": 1788367367343
+  "notes": "2.6.49: кнопка «Начать» — матовое стекло с blur обоев",
+  "publishedAt": 1788368090529
 }
