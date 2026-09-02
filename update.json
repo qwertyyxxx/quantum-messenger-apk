@@ -2,6 +2,6 @@
   "versionCode": 195,
   "versionName": "2.6.48",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.48: виджеты — единый тап, кроссфейд тишины, точные превью",
+  "notes": "2.6.48: плавные анимации клавиатуры и отправки, без рывков",
   "publishedAt": 1788367367343
 }
