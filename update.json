@@ -1,7 +1,7 @@
 {
-  "versionCode": 199,
-  "versionName": "2.6.52",
+  "versionCode": 200,
+  "versionName": "2.6.53",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.52: вход — центр, ровная типографика, мягкие анимации",
-  "publishedAt": 1788370456215
+  "notes": "2.6.53: Quantum без CAPS, шаги входа одним блоком по центру",
+  "publishedAt": 1788370813360
 }
