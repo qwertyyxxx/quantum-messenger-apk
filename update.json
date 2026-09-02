@@ -1,7 +1,7 @@
 {
-  "versionCode": 188,
-  "versionName": "2.6.41",
+  "versionCode": 189,
+  "versionName": "2.6.42",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.41: виджеты без стопки и рамок — строка на всю ширину",
-  "publishedAt": 1788284500014
+  "notes": "2.6.42: виджеты шапки — непрочитанные открывают чат; отложенные, тишина, закрепы, истории; без «избранного»",
+  "publishedAt": 1788362367819
 }
