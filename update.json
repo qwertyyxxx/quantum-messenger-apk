@@ -1,7 +1,7 @@
 {
-  "versionCode": 202,
-  "versionName": "2.6.55",
+  "versionCode": 203,
+  "versionName": "2.6.56",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.55: Quantum без CAPS, шаги входа одним блоком по центру",
-  "publishedAt": 1788371603028
+  "notes": "2.6.56: суперэллипсы (squircle) вместо обычных скруглений",
+  "publishedAt": 1788458111980
 }
