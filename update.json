@@ -1,7 +1,7 @@
 {
-  "versionCode": 210,
-  "versionName": "2.6.63",
+  "versionCode": 211,
+  "versionName": "2.6.64",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.63: Telegram bridge ON — sealed API keys",
-  "publishedAt": 1788536024773
+  "notes": "2.6.64: Telegram: фикс входа по номеру и коду",
+  "publishedAt": 1788536472580
 }
