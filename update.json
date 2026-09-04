@@ -1,7 +1,7 @@
 {
-  "versionCode": 208,
-  "versionName": "2.6.61",
+  "versionCode": 209,
+  "versionName": "2.6.62",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.61: живой мост Telegram — пишите друзьям без приглашений",
-  "publishedAt": 1788535401507
+  "notes": "2.6.62: защита Telegram API ключей (AES-256-GCM seal)",
+  "publishedAt": 1788535798742
 }
