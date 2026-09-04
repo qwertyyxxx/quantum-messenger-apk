@@ -1,7 +1,7 @@
 {
-  "versionCode": 213,
-  "versionName": "2.6.66",
+  "versionCode": 215,
+  "versionName": "2.6.68",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.66: Telegram: номер и код — вход починен",
-  "publishedAt": 1788538050127
+  "notes": "2.6.68: код входа в Telegram — без Firebase, приходит в приложение Telegram",
+  "publishedAt": 1788540877918
 }
