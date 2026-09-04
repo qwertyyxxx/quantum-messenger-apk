@@ -1,7 +1,7 @@
 {
-  "versionCode": 216,
-  "versionName": "2.6.69",
+  "versionCode": 217,
+  "versionName": "2.6.70",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.69: убран вход через Telegram",
-  "publishedAt": 1788541658443
+  "notes": "2.6.70: long-press — фокус сообщения + блюр вокруг",
+  "publishedAt": 1788547930263
 }
