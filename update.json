@@ -1,7 +1,7 @@
 {
-  "versionCode": 218,
-  "versionName": "2.6.71",
+  "versionCode": 222,
+  "versionName": "2.6.75",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.71: long-press — сообщение на месте, блюр на весь экран",
-  "publishedAt": 1788548437288
+  "notes": "2.6.75: свои сообщения снова справа; long-press без сдвига",
+  "publishedAt": 1788549763835
 }
