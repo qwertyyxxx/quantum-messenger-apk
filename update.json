@@ -1,7 +1,7 @@
 {
-  "versionCode": 207,
-  "versionName": "2.6.60",
+  "versionCode": 208,
+  "versionName": "2.6.61",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.60: импорт Telegram — выбор чатов галочками через TDLib",
-  "publishedAt": 1788534523668
+  "notes": "2.6.61: живой мост Telegram — пишите друзьям без приглашений",
+  "publishedAt": 1788535401507
 }
