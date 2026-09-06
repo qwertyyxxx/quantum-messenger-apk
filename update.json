@@ -1,7 +1,7 @@
 {
-  "versionCode": 225,
-  "versionName": "2.6.78",
+  "versionCode": 226,
+  "versionName": "2.6.79",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.78: плавное открытие панели стикеров (QMI settle)",
-  "publishedAt": 1788683575027
+  "notes": "2.6.79: QMI-глубина нажатия в кнопках и поле ввода",
+  "publishedAt": 1788684451308
 }
