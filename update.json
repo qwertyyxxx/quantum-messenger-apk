@@ -1,7 +1,7 @@
 {
-  "versionCode": 231,
-  "versionName": "2.6.84",
+  "versionCode": 232,
+  "versionName": "2.6.85",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.84: кнопка микрофона вместо точек + QMI UI голосовых",
-  "publishedAt": 1788687342390
+  "notes": "2.6.85: фикс старта голосовых с первого тапа + понятные ошибки",
+  "publishedAt": 1788687657100
 }
