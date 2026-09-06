@@ -1,7 +1,7 @@
 {
-  "versionCode": 226,
-  "versionName": "2.6.79",
+  "versionCode": 227,
+  "versionName": "2.6.80",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.79: QMI-глубина нажатия в кнопках и поле ввода",
-  "publishedAt": 1788684451308
+  "notes": "2.6.80: фикс свечения после Назад + тапы по emoji при фокусе",
+  "publishedAt": 1788685530743
 }
