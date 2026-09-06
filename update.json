@@ -1,7 +1,7 @@
 {
-  "versionCode": 232,
-  "versionName": "2.6.85",
+  "versionCode": 233,
+  "versionName": "2.6.86",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.85: фикс старта голосовых с первого тапа + понятные ошибки",
-  "publishedAt": 1788687657100
+  "notes": "2.6.86: короткие дефисы в текстах вместо длинных тире",
+  "publishedAt": 1788688534478
 }
