@@ -1,7 +1,7 @@
 {
-  "versionCode": 229,
-  "versionName": "2.6.82",
+  "versionCode": 230,
+  "versionName": "2.6.83",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.82: мягкая вибрация при нажатии на поле ввода",
-  "publishedAt": 1788686556741
+  "notes": "2.6.83: кнопка отправки в стиле QMI + новая иконка",
+  "publishedAt": 1788686946437
 }
