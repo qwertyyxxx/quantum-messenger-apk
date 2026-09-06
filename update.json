@@ -1,7 +1,7 @@
 {
-  "versionCode": 227,
-  "versionName": "2.6.80",
+  "versionCode": 228,
+  "versionName": "2.6.81",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.80: фикс свечения после Назад + тапы по emoji при фокусе",
-  "publishedAt": 1788685530743
+  "notes": "2.6.81: курсор гаснет с клавиатурой; emoji/меню открываются с первого тапа",
+  "publishedAt": 1788686192773
 }
