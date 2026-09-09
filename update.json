@@ -1,7 +1,7 @@
 {
-  "versionCode": 236,
-  "versionName": "2.6.89",
+  "versionCode": 237,
+  "versionName": "2.6.90",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.89: поле ввода увеличивается при фокусе, кнопки чуть меньше",
-  "publishedAt": 1788970009389
+  "notes": "2.6.90: поле и кнопки без наложения - layout сжимает круги",
+  "publishedAt": 1788970393281
 }
