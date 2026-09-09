@@ -1,7 +1,7 @@
 {
-  "versionCode": 239,
-  "versionName": "2.6.92",
+  "versionCode": 240,
+  "versionName": "2.6.93",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.92: анимация кнопки отправки при send",
-  "publishedAt": 1788971009682
+  "notes": "2.6.93: сообщение вылетает из кнопки отправки в ленту",
+  "publishedAt": 1788971378738
 }
