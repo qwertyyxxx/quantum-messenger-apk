@@ -1,7 +1,7 @@
 {
-  "versionCode": 244,
-  "versionName": "2.6.97",
+  "versionCode": 245,
+  "versionName": "2.6.98",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.97: отправка без рывка - одна геометрия сдвига ленты",
-  "publishedAt": 1788972564681
+  "notes": "2.6.98: плавный выезд бабла без дёрганья ленты",
+  "publishedAt": 1788972987533
 }
