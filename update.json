@@ -1,7 +1,7 @@
 {
-  "versionCode": 247,
-  "versionName": "2.7.0",
+  "versionCode": 248,
+  "versionName": "2.7.1",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.7.0: мягкий выезд сообщения и ленты при отправке",
-  "publishedAt": 1788973998587
+  "notes": "2.7.1: Quantum Modular Type — единая шкала типографики",
+  "publishedAt": 1788983438616
 }
