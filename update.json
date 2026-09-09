@@ -1,7 +1,7 @@
 {
-  "versionCode": 234,
-  "versionName": "2.6.87",
+  "versionCode": 235,
+  "versionName": "2.6.88",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.87: тумблеры в стиле QMI - стекло и cyan",
-  "publishedAt": 1788688926259
+  "notes": "2.6.88: поле ввода чуть подпрыгивает при фокусе",
+  "publishedAt": 1788969770939
 }
