@@ -1,7 +1,7 @@
 {
-  "versionCode": 237,
-  "versionName": "2.6.90",
+  "versionCode": 238,
+  "versionName": "2.6.91",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.6.90: поле и кнопки без наложения - layout сжимает круги",
-  "publishedAt": 1788970393281
+  "notes": "2.6.91: плавная клавиатура - анимация поля без дёрганья layout",
+  "publishedAt": 1788970726246
 }
