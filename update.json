@@ -1,7 +1,7 @@
 {
-  "versionCode": 248,
-  "versionName": "2.7.1",
+  "versionCode": 249,
+  "versionName": "2.7.2",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.7.1: Quantum Modular Type — единая шкала типографики",
-  "publishedAt": 1788983438616
+  "notes": "2.7.2: spacing/radii ladders, φ empty, motion, hit 44, glass levels",
+  "publishedAt": 1788984389404
 }
