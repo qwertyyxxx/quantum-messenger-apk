@@ -1,7 +1,7 @@
 {
-  "versionCode": 251,
-  "versionName": "2.7.4",
+  "versionCode": 252,
+  "versionName": "2.7.5",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.7.4: умный поиск QMI — транслит, раскладка, операторы, история, чипы",
-  "publishedAt": 1789315050793
+  "notes": "2.7.5: поиск без лишнего текста — недавние, люди, короткие результаты",
+  "publishedAt": 1789315495834
 }
