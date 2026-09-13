@@ -1,7 +1,7 @@
 {
-  "versionCode": 249,
-  "versionName": "2.7.2",
+  "versionCode": 250,
+  "versionName": "2.7.3",
   "apkUrl": "https://quantum-4b7dd.web.app/QuantumMessenger-rn.apk",
-  "notes": "2.7.2: spacing/radii ladders, φ empty, motion, hit 44, glass levels",
-  "publishedAt": 1788984389404
+  "notes": "2.7.3: экран входа — QMI glass-остров, спокойный минимализм",
+  "publishedAt": 1789289082450
 }
